@@ -1,0 +1,8 @@
+<div class="about">
+    <h1>Contact</h1>
+    <p>
+        <a style = "text-decoration: none; color: white" href="mailto:tristenbono@comcast.net">Email: tristenbono@comcast.net</a><br><br>
+        <a style = "text-decoration: none; color: white" href="tel:4849444752">Phone: (484) 944-4752</a><br><br>
+        <a style = "text-decoration: none; color: white" href="https://www.linkedin.com/in/tristen-bono-1452491b6/">LinkedIn</a>
+    </p>
+</div>

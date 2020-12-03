@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2e7919c8.chunk.css",
+    "main.js": "/static/js/main.8f5e03d7.chunk.js",
+    "main.js.map": "/static/js/main.8f5e03d7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c0b94c62.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c0b94c62.js.map",
+    "static/js/2.f2a8c10a.chunk.js": "/static/js/2.f2a8c10a.chunk.js",
+    "static/js/2.f2a8c10a.chunk.js.map": "/static/js/2.f2a8c10a.chunk.js.map",
+    "static/js/3.0795691f.chunk.js": "/static/js/3.0795691f.chunk.js",
+    "static/js/3.0795691f.chunk.js.map": "/static/js/3.0795691f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.2e7919c8.chunk.css.map": "/static/css/main.2e7919c8.chunk.css.map",
+    "static/js/2.f2a8c10a.chunk.js.LICENSE.txt": "/static/js/2.f2a8c10a.chunk.js.LICENSE.txt",
+    "static/media/About.f243ea0e.txt": "/static/media/About.f243ea0e.txt",
+    "static/media/Awards.56b4d39f.txt": "/static/media/Awards.56b4d39f.txt",
+    "static/media/Contact.8354f6ed.txt": "/static/media/Contact.8354f6ed.txt",
+    "static/media/Education.82d31525.txt": "/static/media/Education.82d31525.txt",
+    "static/media/Extracurricular.754137ac.txt": "/static/media/Extracurricular.754137ac.txt",
+    "static/media/Headshot.1a8c7013.jpg": "/static/media/Headshot.1a8c7013.jpg",
+    "static/media/Programming.f55071f2.txt": "/static/media/Programming.f55071f2.txt",
+    "static/media/Volunteer.a05da084.txt": "/static/media/Volunteer.a05da084.txt",
+    "static/media/Work.0973344b.txt": "/static/media/Work.0973344b.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0b94c62.js",
+    "static/js/2.f2a8c10a.chunk.js",
+    "static/css/main.2e7919c8.chunk.css",
+    "static/js/main.8f5e03d7.chunk.js"
+  ]
+}
