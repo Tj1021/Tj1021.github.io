@@ -3,10 +3,13 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import { Provider as ParagraphProvider } from './context/ParagraphContext'
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <ParagraphProvider>
+      <App />
+    </ParagraphProvider>
   </React.StrictMode>,
   document.getElementById('root')
 );
